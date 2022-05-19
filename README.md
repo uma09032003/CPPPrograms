@@ -25,6 +25,9 @@ This page provides C++ Solutions, and discusses the appraoches to approach a pro
       5. Two Classes ‘class b’ and ‘class books’ are used where class b is used to represent the ADT of individual books and functions and ‘class books’ is used to represent collective operations on all books
       6. The program is so written such that the number of books once chosen cannot be altered . 
       7. Linked List is used to represent the transaction records (“Successful”,”Unsuccessful”,”Out of Stock”)
-
+ 
+ **3. Ltrimsql.cpp**
+ **Code a function similar to the ltrim in PL/SQL**
+ Logic of ltrim : str1 = "aabbcdabc"  str2 = "ab" , Output: "cdabc" 
 
                         
