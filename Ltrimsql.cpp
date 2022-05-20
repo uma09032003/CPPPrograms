@@ -1,3 +1,5 @@
+//Ltrimsql.cpp Code a function similar to the ltrim in PL/SQL Logic of ltrim : str1 = "aabbcdabc" str2 = "ab" , Output: "cdabc"
+
 #include <iostream>
 #include<string.h>
 using namespace std;
